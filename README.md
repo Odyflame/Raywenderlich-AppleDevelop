@@ -8,4 +8,4 @@ Title  | Completed | Date | Course
 [Getting Started with Core Data Tutorial](https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial) | Completed | - | Free
 [RxSwift: Reactive Programming with Swift](https://www.notion.so/odyflame/RxSwift-Reactive-Programming-with-Swift-45a7d7dff9464e309040aeea52e82f3e) | In Progress | 1.1.21 ~ | Books
 [iOS Tutorial: Collection View and Diffable Data Source](https://www.raywenderlich.com/8241072-ios-tutorial-collection-view-and-diffable-data-source) | Completed | 1.7.21 ~ 1.7.21 | Free
-[fastlane Tutorial: Getting Started](https://www.raywenderlich.com/233168-fastlane-tutorial-getting-started](https://www.raywenderlich.com/233168-fastlane-tutorial-getting-started) | Completed | 1.12.21 ~ 1.14.21 | Free
+[fastlane Tutorial: Getting Started](https://www.raywenderlich.com/233168-fastlane-tutorial-getting-started) | Completed | 1.12.21 ~ 1.14.21 | Free
