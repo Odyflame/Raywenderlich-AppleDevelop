@@ -17,4 +17,4 @@ here is the Study List with Apple Develop
 Title  | Completed | Date | Remarks 
 :----:|:----------:|:-----:|:-----:|
 [Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) | In Progress | 2021.01.23 ~ | SwiftUI was updated continuously, and grammar changed frequently, so we decided to postpone it a little and restart it. |
-[Build an Action Classifier with Create ML](https://developer.apple.com/videos/play/wwdc2020/10043/) | In Progress | 2021.03.11 ~ | 
+[Build an Action Classifier with Create ML](https://developer.apple.com/videos/play/wwdc2020/10043/) | In Progress | 2021.03.11 ~ | -
