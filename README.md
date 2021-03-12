@@ -26,4 +26,4 @@ Title  | Completed | Date | Remarks
 [Unsafe Swift](https://developer.apple.com/videos/play/wwdc2020/10648/) | To Do | - | -
 [Create custom apps for employees](https://developer.apple.com/videos/play/wwdc2020/10222/) | To Do | - | -
 [Why is my app getting killed?](https://developer.apple.com/videos/play/wwdc2020/10078/) | To Do | - | - 
-[iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416) | In Progress | - | - 
+[iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416) | In Progress | - | [Usefull Reference](https://hcn1519.github.io/articles/2018-09/wwdc2018session416) 
