@@ -1,4 +1,4 @@
-# Raywenderlich
+# 💻 Raywenderlich
 
 here is the Study List with raywenderlich 
 
@@ -11,9 +11,9 @@ Title  | Completed | Date | Course
 [fastlane Tutorial: Getting Started](https://www.raywenderlich.com/233168-fastlane-tutorial-getting-started) | Completed | 2021.01.12 ~ 2021.01.14 | Free
 [Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios) | In Progress | 2021.03.11 ~ | Free
 
-# Apple Develop
+# 🖥 Apple Developer, WWDC Sessions
 
-here is the Study List with Apple Develop
+here is the Study List with Apple Developer
 Title  | Completed | Date | Remarks 
 :----:|:----------:|:-----:|:-----:|
 [Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) | In Progress | 2021.01.23 ~ | SwiftUI was updated continuously, and grammar changed frequently, so we decided to postpone it a little and restart it. |
