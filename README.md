@@ -21,3 +21,7 @@ Title  | Completed | Date | Remarks
 [Advances in UICollectionView](https://developer.apple.com/videos/play/wwdc2020/10097/) | In Progress | 2020.03.11 ~ | What is Compositional Layout? need to study it..
 [Lists in UICollectionView](https://developer.apple.com/videos/play/wwdc2020/10026/) | To Do | - | 
 [Modern cell configuration](https://developer.apple.com/videos/play/wwdc2020/10027) | To Do | - |
+[The Push Notifications primer](https://developer.apple.com/videos/play/wwdc2020/10095/) | To Do | - |
+[Unsafe Swift](https://developer.apple.com/videos/play/wwdc2020/10648/) | To Do | - |
+[Create custom apps for employees](https://developer.apple.com/videos/play/wwdc2020/10222/) | To Do | - |
+[Why is my app getting killed?](https://developer.apple.com/videos/play/wwdc2020/10078/) | To Do | - |
