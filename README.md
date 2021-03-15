@@ -1,6 +1,6 @@
 # 💻 Raywenderlich
 
-here is the Study List with raywenderlich 
+here is the Study List with raywenderlich     
 
 Title  | Completed | Date | Course
 :----:|:--------:|:-----:|:----|
@@ -31,6 +31,7 @@ Title  | Completed | Date | Remarks
 [iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416) | In Progress | - | [Usefull Reference](https://hcn1519.github.io/articles/2018-09/wwdc2018session416) 
 
 ## Apple Developer Docs, Sample App, Tutorials
+    
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
 [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui) | To Do | 2021.03.15 | -
