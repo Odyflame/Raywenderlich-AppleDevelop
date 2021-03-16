@@ -2,16 +2,16 @@
 
 here is the Study List with raywenderlich     
 
-Title  | Completed | Date | Course
-:----:|:--------:|:-----:|:----|
-[In-App Purchase Tutorial: Getting Started](https://www.raywenderlich.com/5456-in-app-purchase-tutorial-getting-started) | Completed | 2021.01.04 ~ 2021.01.04 | Free
-[Getting Started with Core Data Tutorial](https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial) | Completed | - | Free
-[RxSwift: Reactive Programming with Swift](https://www.notion.so/odyflame/RxSwift-Reactive-Programming-with-Swift-45a7d7dff9464e309040aeea52e82f3e) | Completed | 2021.01.01 ~ 2021.02.22 | Books
-[iOS Tutorial: Collection View and Diffable Data Source](https://www.raywenderlich.com/8241072-ios-tutorial-collection-view-and-diffable-data-source) | Completed | 2021.01.07 ~ 2021.01.07 | Free
-[fastlane Tutorial: Getting Started](https://www.raywenderlich.com/233168-fastlane-tutorial-getting-started) | Completed | 2021.01.12 ~ 2021.01.14 | Free
-[Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios) | In Progress | 2021.03.11 ~ | Free
-[UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started) | Completed | 2021.03.15 ~ 2021.03.16 | Free
-[UIKit Animation](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&content_types%5B%5D=collection&sort_order=released_at) | To Do | ~ | Free
+Title  | Completed | Date | Course | Remarks
+:-----:|:---------:|:----:|:------:|:-------:|
+[In-App Purchase Tutorial: Getting Started](https://www.raywenderlich.com/5456-in-app-purchase-tutorial-getting-started) | Completed | 2021.01.04 ~ 2021.01.04 | Free | 
+[Getting Started with Core Data Tutorial](https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial) | Completed | - | Free |
+[RxSwift: Reactive Programming with Swift](https://www.notion.so/odyflame/RxSwift-Reactive-Programming-with-Swift-45a7d7dff9464e309040aeea52e82f3e) | Completed | 2021.01.01 ~ 2021.02.22 | Books | https://www.notion.so/odyflame/RxSwift-Reactive-Programming-with-Swift-45a7d7dff9464e309040aeea52e82f3e
+[iOS Tutorial: Collection View and Diffable Data Source](https://www.raywenderlich.com/8241072-ios-tutorial-collection-view-and-diffable-data-source) | Completed | 2021.01.07 ~ 2021.01.07 | Free | https://www.notion.so/odyflame/DiffableDataSource-5cdf757f3fe74c0fbde6e93019ade1b8
+[fastlane Tutorial: Getting Started](https://www.raywenderlich.com/233168-fastlane-tutorial-getting-started) | Completed | 2021.01.12 ~ 2021.01.14 | Free | https://www.notion.so/odyflame/Fastlane-6f0b0ebcb13849deb6b92834dac0e50b
+[Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios) | In Progress | 2021.03.11 ~ | Free | https://www.notion.so/odyflame/Creating-a-Framework-for-iOS-6a0a2273bc3e453a95dd194d82952652
+[UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started) | Completed | 2021.03.15 ~ 2021.03.16 | Free | https://www.notion.so/odyflame/Blur-Effect-with-UIVisualEffectView-74d1b1d1d6c6466ab527991b90cb0548
+[UIKit Animation](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&content_types%5B%5D=collection&sort_order=released_at) | To Do | ~ | Free |
 
     
     
