@@ -26,7 +26,7 @@ Title  | Completed | Date | Remarks
 [Build an Action Classifier with Create ML](https://developer.apple.com/videos/play/wwdc2020/10043/) | In Progress | 2021.03.11 ~ | VERY nice sections.. interesting!
 [Advances in UICollectionView](https://developer.apple.com/videos/play/wwdc2020/10097/) | Completed | 2020.03.11 ~ | What is Compositional Layout? need to study it..
 [Lists in UICollectionView](https://developer.apple.com/videos/play/wwdc2020/10026/) | Completed | - | There are lots fo feature in iOS 14 UICollectionView. many accessaories, both leading, trailing cell. configure multiful accessaories, and swife animation. and can register header, footer view, and seperators 
-[Modern cell configuration](https://developer.apple.com/videos/play/wwdc2020/10027) | To Do | - | -
+[Modern cell configuration](https://developer.apple.com/videos/play/wwdc2020/10027) | Completed | 2020.03.16 | https://www.notion.so/odyflame/Modern-Collection-Views-35ddd94117bf4caf8b14a5556e98542c
 [The Push Notifications primer](https://developer.apple.com/videos/play/wwdc2020/10095/) | To Do | - | -
 [Unsafe Swift](https://developer.apple.com/videos/play/wwdc2020/10648/) | To Do | - | -
 [Create custom apps for employees](https://developer.apple.com/videos/play/wwdc2020/10222/) | To Do | - | -
