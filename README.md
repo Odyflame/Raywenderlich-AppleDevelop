@@ -37,4 +37,5 @@ Title  | Completed | Date | Remarks
     
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
-[SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui) | To Do | 2021.03.15 | -
+[SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui) | To Do | 2021.03.15 | will Start when SwiftUI more optimize
+[Implementing Modern Collection Views](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views) | In Progress | 2021.03.25 | -
