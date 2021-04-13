@@ -1,6 +1,6 @@
 # 💻 Raywenderlich
 
-here is the Study List with raywenderlich     
+> here is the Study List with raywenderlich     
 
 Title  | Completed | Date | Course | Remarks
 :-----:|:---------:|:----:|:------:|:-------:|
@@ -14,10 +14,12 @@ Title  | Completed | Date | Course | Remarks
 [UIKit Animation](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&content_types%5B%5D=collection&sort_order=released_at) | To Do | ~ | Free |
 
     
-    
+  
+  
+  
 # 🖥 Apple Developer, WWDC Sessions
 
-here is the Study List with Apple Developer    
+> here is the Study List with Apple Developer    
     
 ## WWDC Sessions
 Title  | Completed | Date | Remarks 
@@ -35,16 +37,28 @@ Title  | Completed | Date | Remarks
 [Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/) | To Do | - | -
 
 
+
+
+
+
 # 📃 Apple Developer Docs, Sample App, Tutorials
-    
+
+> here is study with Apple developer Docs, Tutorials, etc.
+
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
 [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui) | To Do | 2021.03.15 | will Start when SwiftUI more optimize
 [Implementing Modern Collection Views](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views) | In Progress | 2021.03.25 | -
 
 
+
+
+
+
 # 🏤 Udacity
-    
+
+> here is study with Udacity Computer science, like Operating System, Computer Architecture, etc.
+
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
 [GT - Refresher - Advanced OS](https://classroom.udacity.com/courses/ud098) | In Progress | 2021.04.13 | -
@@ -52,3 +66,14 @@ Title  | Completed | Date | Remarks
 [High Performance Computer Architecture](https://classroom.udacity.com/courses/ud007) | In Progress | 2021.04.12 | - 
 [iOS Interview Preparation](https://classroom.udacity.com/courses/ud240) | To do | - | -
 
+
+
+
+
+# 📺 Youtube 
+
+> here is study with Youtube lecture or good sessions
+
+Title  | Completed | Date | Remarks 
+:-----:|:---------:|:----:|:-------:|
+[데이터구조, 알고리즘 in 카이스트 aai 연구실 ](https://www.youtube.com/watch?v=yxbV3dLTWeM&list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD&index=9&ab_channel=AAILabKaist) | In Progress | 2021.04.12 | ~ letcure 8까지 
