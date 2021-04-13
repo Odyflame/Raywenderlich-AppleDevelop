@@ -35,7 +35,7 @@ Title  | Completed | Date | Remarks
 [Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/) | To Do | - | -
 
 
-## Apple Developer Docs, Sample App, Tutorials
+# 📃 Apple Developer Docs, Sample App, Tutorials
     
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
@@ -43,7 +43,7 @@ Title  | Completed | Date | Remarks
 [Implementing Modern Collection Views](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views) | In Progress | 2021.03.25 | -
 
 
-## Udacity
+# 🏤 Udacity
     
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
