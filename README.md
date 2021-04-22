@@ -76,4 +76,4 @@ Title  | Completed | Date | Remarks
 
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
-[데이터구조, 알고리즘 in 카이스트 aai 연구실 ](https://www.youtube.com/watch?v=yxbV3dLTWeM&list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD&index=9&ab_channel=AAILabKaist) | In Progress | 2021.04.12 | letcure 24 / 43 완료
+[데이터구조, 알고리즘 in 카이스트 aai 연구실 ](https://www.youtube.com/watch?v=yxbV3dLTWeM&list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD&index=9&ab_channel=AAILabKaist) | In Progress | 2021.04.12 | letcure 30 / 43 완료
