@@ -47,9 +47,9 @@ Title  | Completed | Date | Remarks
 
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
-[GT - Refresher - Advanced OS](https://classroom.udacity.com/courses/ud098) | In Progress | 2021.04.13 | -
-[Advanced Operating Systems](https://classroom.udacity.com/courses/ud189) | To Do | 2021.04.12 | -
-[High Performance Computer Architecture](https://classroom.udacity.com/courses/ud007) | In Progress | 2021.04.12 | - 
+[GT - Refresher - Advanced OS](https://classroom.udacity.com/courses/ud098) | In Progress | 2021.04.13 ~ | 
+[Advanced Operating Systems](https://classroom.udacity.com/courses/ud189) | In Progress | 2021.04.12 ~  | Lesson 3 / 40 진행중
+[High Performance Computer Architecture](https://classroom.udacity.com/courses/ud007) | To Do | 2021.04.12 | Lesson 1 / 40 진행중
 [iOS Interview Preparation](https://classroom.udacity.com/courses/ud240) | To Do | - | -
       
 # 📺 Youtube 
@@ -58,7 +58,7 @@ Title  | Completed | Date | Remarks
 
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
-[데이터구조, 알고리즘 in 카이스트 aai 연구실 ](https://www.youtube.com/watch?v=yxbV3dLTWeM&list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD&index=9&ab_channel=AAILabKaist) | In Progress | 2021.04.12 | letcure 35 / 43 완료
+[데이터구조, 알고리즘 in 카이스트 aai 연구실 ](https://www.youtube.com/watch?v=yxbV3dLTWeM&list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD&index=9&ab_channel=AAILabKaist) | In Progress | 2021.04.12 | letcure 35 / 43 진행중
 [드림코딩 by 앨리](https://www.youtube.com/watch?v=wD8GnE_AJQQ&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC) | Just Watching for fun and career | ~ | it's fun and helpful!    
 
 # 🔌 InterView
@@ -67,7 +67,7 @@ Title  | Completed | Date | Remarks
 
 Title | Completed | Date | Remarks
 :----:|:---------:|:----:|:-------:|
-[WeareSoft](https://github.com/gyoogle/tech-interview-for-developer) | In Progress | 2021.04.25 | -
+[WeareSoft](https://github.com/gyoogle/tech-interview-for-developer) | To Do | 2021.04.25 | -
 [gyoogle](https://github.com/gyoogle/tech-interview-for-developer) | To Do | 2021.04.25 | -
 [Trello](https://trello.com/b/MugMXwGi/%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84%F0%9F%91%91) | To Do | 2021.04.25 | -
 [면접 예상 질문](https://hyonee.tistory.com/136?category=913823) | To Do | 2021.04.21 | -
