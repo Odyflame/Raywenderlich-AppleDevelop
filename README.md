@@ -12,14 +12,10 @@ Title  | Completed | Date | Course | Remarks
 [Creating a Framework for iOS](https://www.raywenderlich.com/17753301-creating-a-framework-for-ios) | In Progress | 2021.03.11 ~ | Free | https://www.notion.so/odyflame/Creating-a-Framework-for-iOS-6a0a2273bc3e453a95dd194d82952652
 [UIVisualEffectView Tutorial: Getting Started](https://www.raywenderlich.com/16125723-uivisualeffectview-tutorial-getting-started) | Completed | 2021.03.15 ~ 2021.03.16 | Free | https://www.notion.so/odyflame/Blur-Effect-with-UIVisualEffectView-74d1b1d1d6c6466ab527991b90cb0548
 [UIKit Animation](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&content_types%5B%5D=collection&sort_order=released_at) | To Do | ~ | Free |
-
-    
-  
-  
-  
+     
 # 🖥 Apple Developer, WWDC Sessions
 
-> here is the Study List with Apple Developer    
+> Here is the Study List with Apple Developer    
     
 ## WWDC Sessions
 Title  | Completed | Date | Remarks 
@@ -35,46 +31,43 @@ Title  | Completed | Date | Remarks
 [Why is my app getting killed?](https://developer.apple.com/videos/play/wwdc2020/10078/) | To Do | - | - 
 [iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416) | In Progress | - | [Usefull Reference](https://hcn1519.github.io/articles/2018-09/wwdc2018session416) 
 [Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/) | To Do | - | -
-
-
-
-
-
-
+      
 # 📃 Apple Developer Docs, Sample App, Tutorials
-
-> here is study with Apple developer Docs, Tutorials, etc.
+     
+> Here is study with Apple developer Docs, Tutorials, etc.
 
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
 [SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui) | To Do | 2021.03.15 | will Start when SwiftUI more optimize
 [Implementing Modern Collection Views](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views) | In Progress | 2021.03.25 | -
-
-
-
-
-
-
+     
 # 🏤 Udacity
-
-> here is study with Udacity Computer science, like Operating System, Computer Architecture, etc.
+     
+> Here is study with Udacity Computer science, like Operating System, Computer Architecture, etc.
 
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
 [GT - Refresher - Advanced OS](https://classroom.udacity.com/courses/ud098) | In Progress | 2021.04.13 | -
 [Advanced Operating Systems](https://classroom.udacity.com/courses/ud189) | To Do | 2021.04.12 | -
 [High Performance Computer Architecture](https://classroom.udacity.com/courses/ud007) | In Progress | 2021.04.12 | - 
-[iOS Interview Preparation](https://classroom.udacity.com/courses/ud240) | To do | - | -
-
-
-
-
-
+[iOS Interview Preparation](https://classroom.udacity.com/courses/ud240) | To Do | - | -
+      
 # 📺 Youtube 
 
-> here is study with Youtube lecture or good sessions
+> Here is study with Youtube lecture or good sessions
 
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
 [데이터구조, 알고리즘 in 카이스트 aai 연구실 ](https://www.youtube.com/watch?v=yxbV3dLTWeM&list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD&index=9&ab_channel=AAILabKaist) | In Progress | 2021.04.12 | letcure 35 / 43 완료
-[드림코딩 by 앨리](https://www.youtube.com/watch?v=wD8GnE_AJQQ&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC) | Just Watching for fun and career | ~ | it's fun and helpful!
+[드림코딩 by 앨리](https://www.youtube.com/watch?v=wD8GnE_AJQQ&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC) | Just Watching for fun and career | ~ | it's fun and helpful!    
+
+# 🔌 InterView
+
+> Here is Interview Questions
+
+Title | Completed | Date | Remarks
+:----:|:---------:|:----:|:-------:|
+[WeareSoft](https://github.com/gyoogle/tech-interview-for-developer) | In Progress | 2021.04.25 | -
+[gyoogle](https://github.com/gyoogle/tech-interview-for-developer) | To Do | 2021.04.25 | -
+[Trello](https://trello.com/b/MugMXwGi/%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84%F0%9F%91%91) | To Do | 2021.04.25 | -
+[면접 예상 질문](https://hyonee.tistory.com/136?category=913823) | To Do | 2021.04.21 | -
