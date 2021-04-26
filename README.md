@@ -59,7 +59,8 @@ Title  | Completed | Date | Remarks
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
 [데이터구조, 알고리즘 in 카이스트 aai 연구실 ](https://www.youtube.com/watch?v=yxbV3dLTWeM&list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD&index=9&ab_channel=AAILabKaist) | Completed | 2021.04.12 | 완료, RB tree 등 목록에서 다른 알고리즘에 대한 내용이 조금 빠져 다 보도록 
-[드림코딩 by 앨리](https://www.youtube.com/watch?v=wD8GnE_AJQQ&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC) | Just Watching for fun and career | ~ | it's fun and helpful!    
+[드림코딩 by 앨리](https://www.youtube.com/watch?v=wD8GnE_AJQQ&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC) | Just Watching for fun and career | ~ | it's fun and helpful!  
+[노마드코더](https://www.youtube.com/watch?v=mwebn4D75Vg&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders) | Just for fun | ~ | -
 
 # 🔌 InterView
 
