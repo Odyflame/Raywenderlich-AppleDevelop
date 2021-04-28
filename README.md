@@ -59,8 +59,18 @@ Title  | Completed | Date | Remarks
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
 [데이터구조, 알고리즘 in 카이스트 aai 연구실 ](https://www.youtube.com/watch?v=yxbV3dLTWeM&list=PLbhbGI_ppZIQZIq1HiPM2rIBa_ikf9FWD&index=9&ab_channel=AAILabKaist) | Completed | 2021.04.12 | 완료, RB tree 등 목록에서 다른 알고리즘에 대한 내용이 조금 빠져 다 보도록 
+[데이터 구조 및 분석 II : Non-Linear Structure, Optimization, and Algorithms](https://www.youtube.com/watch?v=SGa0qfYYB0k&list=PLbhbGI_ppZIS8EDpOliM7d8GA7wQqAs2q&ab_channel=AAILabKaist) | To Do | 2021.04.28 | -
 [드림코딩 by 앨리](https://www.youtube.com/watch?v=wD8GnE_AJQQ&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC) | Just Watching for fun and career | ~ | it's fun and helpful!  
 [노마드코더](https://www.youtube.com/watch?v=mwebn4D75Vg&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders) | Just for fun | ~ | -
+
+# 📕 Inflearn
+
+> Here is Inflearn lecture
+
+Title | Completed | Date | Remarks
+:----:|:---------:|:----:|:-------:|
+[운영체제 공룡책 강의](https://www.inflearn.com/course/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B3%B5%EB%A3%A1%EC%B1%85-%EC%A0%84%EA%B3%B5%EA%B0%95%EC%9D%98/dashboard) | In Progress | 2021.04.28 | Section 1-2
+[따라하며 배우는 c++](https://www.inflearn.com/course/following-c-plus/dashboard) | Completed | 2018.11.19 | -
 
 # 🔌 InterView
 
