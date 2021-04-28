@@ -48,7 +48,7 @@ Title  | Completed | Date | Remarks
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
 [GT - Refresher - Advanced OS](https://classroom.udacity.com/courses/ud098) | In Progress | 2021.04.13 ~ | 
-[Advanced Operating Systems](https://classroom.udacity.com/courses/ud189) | In Progress | 2021.04.12 ~  | Lesson 3 / 40 진행중
+[Advanced Operating Systems](https://classroom.udacity.com/courses/ud189) | In Progress | 2021.04.12 ~  | Lesson 5 / 40 진행중
 [High Performance Computer Architecture](https://classroom.udacity.com/courses/ud007) | To Do | 2021.04.12 | Lesson 1 / 40 진행중
 [iOS Interview Preparation](https://classroom.udacity.com/courses/ud240) | To Do | - | -
       
