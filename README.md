@@ -69,7 +69,7 @@ Title  | Completed | Date | Remarks
 
 Title | Completed | Date | Remarks
 :----:|:---------:|:----:|:-------:|
-[운영체제 공룡책 강의](https://www.inflearn.com/course/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B3%B5%EB%A3%A1%EC%B1%85-%EC%A0%84%EA%B3%B5%EA%B0%95%EC%9D%98/dashboard) | In Progress | 2021.04.28 ~  | 16 / 40
+[운영체제 공룡책 강의](https://www.inflearn.com/course/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B3%B5%EB%A3%A1%EC%B1%85-%EC%A0%84%EA%B3%B5%EA%B0%95%EC%9D%98/dashboard) | In Progress | 2021.04.28 ~  | 10 / 24
 [따라하며 배우는 c++](https://www.inflearn.com/course/following-c-plus/dashboard) | Completed | 2018.11.19 | -
 
 # 🔌 InterView
