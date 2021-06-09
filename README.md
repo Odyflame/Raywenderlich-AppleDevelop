@@ -31,6 +31,7 @@ Title  | Completed | Date | Remarks
 [Why is my app getting killed?](https://developer.apple.com/videos/play/wwdc2020/10078/) | To Do | - | - 
 [iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416) | In Progress | - | [Usefull Reference](https://hcn1519.github.io/articles/2018-09/wwdc2018session416) 
 [Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/) | To Do | - | -
+[Explore Structured concurrency in Swift](https://developer.apple.com/videos/play/wwdc2021/10134/) | Completed | 2021.6.9 | https://www.notion.so/odyflame/Explore-Structured-concurrency-in-Swift-0f0ead1f09e24108a317bfbcf23d0e38
       
 # 📃 Apple Developer Docs, Sample App, Tutorials
      
