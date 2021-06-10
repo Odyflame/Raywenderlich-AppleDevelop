@@ -32,6 +32,8 @@ Title  | Completed | Date | Remarks
 [iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416) | In Progress | - | [Usefull Reference](https://hcn1519.github.io/articles/2018-09/wwdc2018session416) 
 [Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/) | To Do | - | -
 [Explore Structured concurrency in Swift](https://developer.apple.com/videos/play/wwdc2021/10134/) | Completed | 2021.6.9 | https://www.notion.so/odyflame/Explore-Structured-concurrency-in-Swift-0f0ead1f09e24108a317bfbcf23d0e38
+[What's New in Swift?](https://developer.apple.com/videos/play/wwdc2021/10192/) | Completed | 2021.6.10 | https://www.notion.so/odyflame/What-s-New-in-Swift-cea4a120296e49e7ae7b0e45087e4b0d
+[Your guide to keyboard layout ](https://developer.apple.com/videos/play/wwdc2021/10259/) | Completed | 2021.6.10 | https://www.notion.so/odyflame/Your-guide-to-keyboard-layout-75f7eb518b1b4b83b67c0f8fc5b3a4f7
       
 # 📃 Apple Developer Docs, Sample App, Tutorials
      
