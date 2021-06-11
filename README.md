@@ -34,6 +34,9 @@ Title  | Completed | Date | Remarks
 [Explore Structured concurrency in Swift](https://developer.apple.com/videos/play/wwdc2021/10134/) | Completed | 2021.6.9 | https://www.notion.so/odyflame/Explore-Structured-concurrency-in-Swift-0f0ead1f09e24108a317bfbcf23d0e38
 [What's New in Swift?](https://developer.apple.com/videos/play/wwdc2021/10192/) | Completed | 2021.6.10 | https://www.notion.so/odyflame/What-s-New-in-Swift-cea4a120296e49e7ae7b0e45087e4b0d
 [Your guide to keyboard layout ](https://developer.apple.com/videos/play/wwdc2021/10259/) | Completed | 2021.6.10 | https://www.notion.so/odyflame/Your-guide-to-keyboard-layout-75f7eb518b1b4b83b67c0f8fc5b3a4f7
+[Meet the UIKit button system](https://developer.apple.com/videos/play/wwdc2021/10064/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Meet-the-UIKit-button-system-2c56d9cdac8f41e2b970c9a83354596e
+[Meet Xcode Cloud](https://developer.apple.com/videos/play/wwdc2021/10267/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Meet-Xcode-Cloud-fbc4e2631b7144a388e8411cae3810f3
+[Localize your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021/10220/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Localize-your-SwiftUI-app-c1d7395b5f1e4290b0a79500afcf2782
       
 # 📃 Apple Developer Docs, Sample App, Tutorials
      
