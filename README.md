@@ -37,6 +37,10 @@ Title  | Completed | Date | Remarks
 [Meet the UIKit button system](https://developer.apple.com/videos/play/wwdc2021/10064/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Meet-the-UIKit-button-system-2c56d9cdac8f41e2b970c9a83354596e
 [Meet Xcode Cloud](https://developer.apple.com/videos/play/wwdc2021/10267/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Meet-Xcode-Cloud-fbc4e2631b7144a388e8411cae3810f3
 [Localize your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021/10220/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Localize-your-SwiftUI-app-c1d7395b5f1e4290b0a79500afcf2782
+[Review code and collaborate in Xcode](https://developer.apple.com/videos/play/wwdc2021/10205/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Review-code-and-collaborate-in-Xcode-0aa34f8ac3b94f2782b9ee55de2d176a
+[Meey async/await in Swift](https://developer.apple.com/videos/play/wwdc2021/10132/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Meey-async-await-in-Swift-a54df33128fa4033a614ac28d7cb7050
+[Bulid dynamic iOS apps with the CreateML framework](https://developer.apple.com/videos/play/wwdc2021/10037/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Bulid-dynamic-iOS-apps-with-the-CreateML-framework-e8c65adb912a4a7c8e09d22399e68911
+[Meet DocC documentation in Xcode](https://developer.apple.com/videos/play/wwdc2021/10166/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Meet-DocC-documentation-in-Xcode-8def2b75b93640b58d30367ca767550b
       
 # 📃 Apple Developer Docs, Sample App, Tutorials
      
