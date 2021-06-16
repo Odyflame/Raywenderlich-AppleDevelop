@@ -41,6 +41,8 @@ Title  | Completed | Date | Remarks
 [Meey async/await in Swift](https://developer.apple.com/videos/play/wwdc2021/10132/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Meey-async-await-in-Swift-a54df33128fa4033a614ac28d7cb7050
 [Bulid dynamic iOS apps with the CreateML framework](https://developer.apple.com/videos/play/wwdc2021/10037/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Bulid-dynamic-iOS-apps-with-the-CreateML-framework-e8c65adb912a4a7c8e09d22399e68911
 [Meet DocC documentation in Xcode](https://developer.apple.com/videos/play/wwdc2021/10166/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Meet-DocC-documentation-in-Xcode-8def2b75b93640b58d30367ca767550b
+[Craft search experiences in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10176/) | Completed | 2021.6.15 | https://www.notion.so/odyflame/Craft-search-experiences-in-SwiftUI-a8ee728102b84980a22a19025d17f84b
+[Explore Xcode Cloud workflows](https://developer.apple.com/videos/play/wwdc2021/10268/) | Complted | 2021.6.15 | https://www.notion.so/odyflame/Explore-Xcode-Cloud-workflows-fd5017c927274bf591103200003d68de
       
 # 📃 Apple Developer Docs, Sample App, Tutorials
      
