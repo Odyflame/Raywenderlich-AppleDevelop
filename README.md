@@ -43,6 +43,9 @@ Title  | Completed | Date | Remarks
 [Meet DocC documentation in Xcode](https://developer.apple.com/videos/play/wwdc2021/10166/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Meet-DocC-documentation-in-Xcode-8def2b75b93640b58d30367ca767550b
 [Craft search experiences in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10176/) | Completed | 2021.6.15 | https://www.notion.so/odyflame/Craft-search-experiences-in-SwiftUI-a8ee728102b84980a22a19025d17f84b
 [Explore Xcode Cloud workflows](https://developer.apple.com/videos/play/wwdc2021/10268/) | Complted | 2021.6.15 | https://www.notion.so/odyflame/Explore-Xcode-Cloud-workflows-fd5017c927274bf591103200003d68de
+[Direct and reflect focus in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10023/) | Completed | 2021.6.17 | https://www.notion.so/odyflame/Direct-and-reflect-focus-in-SwiftUI-b7f556e8c3484d1abbf7358b29c17db9
+[Discover concurrency in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10019/) | Completed | 2021.6.17 | https://www.notion.so/odyflame/Discover-concurrency-in-SwiftUI-ee761a6bdda34df7ad52cc5ba913a247
+[Classify hand poses and actions with CreateML](https://developer.apple.com/videos/play/wwdc2021/10039/) | Complted | 2021.6.17 | https://www.notion.so/odyflame/Classify-hand-poses-and-actions-with-CreateML-dd8500aedee040caa018fd7da86cd8de
       
 # 📃 Apple Developer Docs, Sample App, Tutorials
      
