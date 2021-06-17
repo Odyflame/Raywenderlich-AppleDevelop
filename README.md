@@ -50,8 +50,9 @@ Title  | Completed | Date | Remarks
 
 Title  | Completed | Date | Remarks 
 :-----:|:---------:|:----:|:-------:|
-[SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui) | To Do | 2021.03.15 | will Start when SwiftUI more optimize
+[SwiftUI Tutorials](https://developer.apple.com/tutorials/swiftui) | Completed | 2021.03.15 ~ 2021.06.15 | will Start when SwiftUI more optimize
 [Implementing Modern Collection Views](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views) | In Progress | 2021.03.25 | -
+[iOS App Dev Titorials](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger) | To Do | - | -
      
 # 🏤 Udacity
      
