@@ -17,11 +17,9 @@ Title  | Completed | Date | Course | Remarks
 
 > Here is the Study List with Apple Developer    
     
-## WWDC Sessions
+## Swift
 Title  | Completed | Date | Remarks 
 :----:|:----------:|:-----:|:-----:|
-[Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) | In Progress | 2021.01.23 ~ | SwiftUI was updated continuously, and grammar changed frequently, so we decided to postpone it a little and restart it. |
-[Build an Action Classifier with Create ML](https://developer.apple.com/videos/play/wwdc2020/10043/) | In Progress | 2021.03.11 ~ | VERY nice sections.. interesting!
 [Advances in UICollectionView](https://developer.apple.com/videos/play/wwdc2020/10097/) | Completed | 2020.03.11 ~ | What is Compositional Layout? need to study it..
 [Lists in UICollectionView](https://developer.apple.com/videos/play/wwdc2020/10026/) | Completed | - | There are lots fo feature in iOS 14 UICollectionView. many accessaories, both leading, trailing cell. configure multiful accessaories, and swife animation. and can register header, footer view, and seperators.     https://www.notion.so/odyflame/List-in-UICollectionView-7d428f0d5e71408b997782ac97a15518
 [Modern cell configuration](https://developer.apple.com/videos/play/wwdc2020/10027) | Completed | 2020.03.16 | https://www.notion.so/odyflame/Modern-Collection-Views-35ddd94117bf4caf8b14a5556e98542c
@@ -30,24 +28,39 @@ Title  | Completed | Date | Remarks
 [Create custom apps for employees](https://developer.apple.com/videos/play/wwdc2020/10222/) | To Do | - | -
 [Why is my app getting killed?](https://developer.apple.com/videos/play/wwdc2020/10078/) | To Do | - | - 
 [iOS Memory Deep Dive](https://developer.apple.com/videos/play/wwdc2018/416) | In Progress | - | [Usefull Reference](https://hcn1519.github.io/articles/2018-09/wwdc2018session416) 
-[Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/) | To Do | - | -
 [Explore Structured concurrency in Swift](https://developer.apple.com/videos/play/wwdc2021/10134/) | Completed | 2021.6.9 | https://www.notion.so/odyflame/Explore-Structured-concurrency-in-Swift-0f0ead1f09e24108a317bfbcf23d0e38
 [What's New in Swift?](https://developer.apple.com/videos/play/wwdc2021/10192/) | Completed | 2021.6.10 | https://www.notion.so/odyflame/What-s-New-in-Swift-cea4a120296e49e7ae7b0e45087e4b0d
 [Your guide to keyboard layout ](https://developer.apple.com/videos/play/wwdc2021/10259/) | Completed | 2021.6.10 | https://www.notion.so/odyflame/Your-guide-to-keyboard-layout-75f7eb518b1b4b83b67c0f8fc5b3a4f7
 [Meet the UIKit button system](https://developer.apple.com/videos/play/wwdc2021/10064/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Meet-the-UIKit-button-system-2c56d9cdac8f41e2b970c9a83354596e
-[Meet Xcode Cloud](https://developer.apple.com/videos/play/wwdc2021/10267/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Meet-Xcode-Cloud-fbc4e2631b7144a388e8411cae3810f3
-[Localize your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021/10220/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Localize-your-SwiftUI-app-c1d7395b5f1e4290b0a79500afcf2782
-[Review code and collaborate in Xcode](https://developer.apple.com/videos/play/wwdc2021/10205/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Review-code-and-collaborate-in-Xcode-0aa34f8ac3b94f2782b9ee55de2d176a
 [Meey async/await in Swift](https://developer.apple.com/videos/play/wwdc2021/10132/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Meey-async-await-in-Swift-a54df33128fa4033a614ac28d7cb7050
-[Bulid dynamic iOS apps with the CreateML framework](https://developer.apple.com/videos/play/wwdc2021/10037/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Bulid-dynamic-iOS-apps-with-the-CreateML-framework-e8c65adb912a4a7c8e09d22399e68911
-[Meet DocC documentation in Xcode](https://developer.apple.com/videos/play/wwdc2021/10166/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Meet-DocC-documentation-in-Xcode-8def2b75b93640b58d30367ca767550b
+[ARC in Swift: Basic and beyond](https://developer.apple.com/videos/play/wwdc2021/10216/) | Completed | 2021.6.30 | https://www.notion.so/odyflame/ARC-in-Swift-Basic-and-beyond-caa44b861c524d0193b191cace696d8f
+
+## SwiftUI
+Title  | Completed | Date | Remarks 
+:----:|:----------:|:-----:|:-----:|
+[Building Widgets Using WidgetKit and SwiftUI](https://developer.apple.com/documentation/widgetkit/building_widgets_using_widgetkit_and_swiftui) | In Progress | 2021.01.23 ~ | SwiftUI was updated continuously, and grammar changed frequently, so we decided to postpone it a little and restart it. |
+[Localize your SwiftUI app](https://developer.apple.com/videos/play/wwdc2021/10220/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Localize-your-SwiftUI-app-c1d7395b5f1e4290b0a79500afcf2782
 [Craft search experiences in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10176/) | Completed | 2021.6.15 | https://www.notion.so/odyflame/Craft-search-experiences-in-SwiftUI-a8ee728102b84980a22a19025d17f84b
-[Explore Xcode Cloud workflows](https://developer.apple.com/videos/play/wwdc2021/10268/) | Complted | 2021.6.15 | https://www.notion.so/odyflame/Explore-Xcode-Cloud-workflows-fd5017c927274bf591103200003d68de
 [Direct and reflect focus in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10023/) | Completed | 2021.6.17 | https://www.notion.so/odyflame/Direct-and-reflect-focus-in-SwiftUI-b7f556e8c3484d1abbf7358b29c17db9
 [Discover concurrency in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10019/) | Completed | 2021.6.17 | https://www.notion.so/odyflame/Discover-concurrency-in-SwiftUI-ee761a6bdda34df7ad52cc5ba913a247
+
+## ML & Vision
+Title  | Completed | Date | Remarks 
+:----:|:----------:|:-----:|:-----:|
+[Build an Action Classifier with Create ML](https://developer.apple.com/videos/play/wwdc2020/10043/) | In Progress | 2021.03.11 ~ | VERY nice sections.. interesting!
+[Bulid dynamic iOS apps with the CreateML framework](https://developer.apple.com/videos/play/wwdc2021/10037/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Bulid-dynamic-iOS-apps-with-the-CreateML-framework-e8c65adb912a4a7c8e09d22399e68911
 [Classify hand poses and actions with CreateML](https://developer.apple.com/videos/play/wwdc2021/10039/) | Complted | 2021.6.17 | https://www.notion.so/odyflame/Classify-hand-poses-and-actions-with-CreateML-dd8500aedee040caa018fd7da86cd8de
-[ARC in Swift: Basic and beyond](https://developer.apple.com/videos/play/wwdc2021/10216/) | Completed | 2021.6.30 | https://www.notion.so/odyflame/ARC-in-Swift-Basic-and-beyond-caa44b861c524d0193b191cace696d8f
-      
+
+## Developer Tool
+Title  | Completed | Date | Remarks 
+:----:|:----------:|:-----:|:-----:|
+[Testing in Xcode](https://developer.apple.com/videos/play/wwdc2019/413/) | To Do | - | -
+[Meet Xcode Cloud](https://developer.apple.com/videos/play/wwdc2021/10267/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Meet-Xcode-Cloud-fbc4e2631b7144a388e8411cae3810f3
+[Review code and collaborate in Xcode](https://developer.apple.com/videos/play/wwdc2021/10205/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Review-code-and-collaborate-in-Xcode-0aa34f8ac3b94f2782b9ee55de2d176a
+[Meet DocC documentation in Xcode](https://developer.apple.com/videos/play/wwdc2021/10166/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Meet-DocC-documentation-in-Xcode-8def2b75b93640b58d30367ca767550b
+[Explore Xcode Cloud workflows](https://developer.apple.com/videos/play/wwdc2021/10268/) | Complted | 2021.6.15 | https://www.notion.so/odyflame/Explore-Xcode-Cloud-workflows-fd5017c927274bf591103200003d68de
+
+
 # 📃 Apple Developer Docs, Sample App, Tutorials
      
 > Here is study with Apple developer Docs, Tutorials, etc.
