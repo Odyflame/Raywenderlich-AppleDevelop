@@ -46,6 +46,7 @@ Title  | Completed | Date | Remarks
 [Direct and reflect focus in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10023/) | Completed | 2021.6.17 | https://www.notion.so/odyflame/Direct-and-reflect-focus-in-SwiftUI-b7f556e8c3484d1abbf7358b29c17db9
 [Discover concurrency in SwiftUI](https://developer.apple.com/videos/play/wwdc2021/10019/) | Completed | 2021.6.17 | https://www.notion.so/odyflame/Discover-concurrency-in-SwiftUI-ee761a6bdda34df7ad52cc5ba913a247
 [Classify hand poses and actions with CreateML](https://developer.apple.com/videos/play/wwdc2021/10039/) | Complted | 2021.6.17 | https://www.notion.so/odyflame/Classify-hand-poses-and-actions-with-CreateML-dd8500aedee040caa018fd7da86cd8de
+[ARC in Swift: Basic and beyond](https://developer.apple.com/videos/play/wwdc2021/10216/) | Completed | 2021.6.30 | https://www.notion.so/odyflame/ARC-in-Swift-Basic-and-beyond-caa44b861c524d0193b191cace696d8f
       
 # 📃 Apple Developer Docs, Sample App, Tutorials
      
