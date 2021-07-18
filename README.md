@@ -34,6 +34,7 @@ Title  | Completed | Date | Remarks
 [Meet the UIKit button system](https://developer.apple.com/videos/play/wwdc2021/10064/) | Completed | 2021.6.11 | https://www.notion.so/odyflame/Meet-the-UIKit-button-system-2c56d9cdac8f41e2b970c9a83354596e
 [Meey async/await in Swift](https://developer.apple.com/videos/play/wwdc2021/10132/) | Completed | 2021.6.14 | https://www.notion.so/odyflame/Meey-async-await-in-Swift-a54df33128fa4033a614ac28d7cb7050
 [ARC in Swift: Basic and beyond](https://developer.apple.com/videos/play/wwdc2021/10216/) | Completed | 2021.6.30 | https://www.notion.so/odyflame/ARC-in-Swift-Basic-and-beyond-caa44b861c524d0193b191cace696d8f
+[Use async/await with URLSession](https://developer.apple.com/videos/play/wwdc2021/10095/) | Completed | 2021.7.18 | https://www.notion.so/odyflame/Use-Async-Await-with-URLSession-dbfb882818f1464192a28c0672b700bf
 
 ## SwiftUI
 Title  | Completed | Date | Remarks 
