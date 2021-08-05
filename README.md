@@ -93,6 +93,7 @@ Title  | Completed | Date | Remarks
 [데이터 구조 및 분석 II : Non-Linear Structure, Optimization, and Algorithms](https://www.youtube.com/watch?v=SGa0qfYYB0k&list=PLbhbGI_ppZIS8EDpOliM7d8GA7wQqAs2q&ab_channel=AAILabKaist) | To Do | 2021.04.28 | -
 [드림코딩 by 앨리](https://www.youtube.com/watch?v=wD8GnE_AJQQ&ab_channel=%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC) | Just Watching for fun and career | ~ | it's fun and helpful!  
 [노마드코더](https://www.youtube.com/watch?v=mwebn4D75Vg&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders) | Just for fun | ~ | -
+[Stanford SwiftUI Lecture](https://www.youtube.com/watch?v=--qKOhdgJAs) | In Progress | 2021.07.26 | 4 / 18
 
 # 📕 Inflearn
 
